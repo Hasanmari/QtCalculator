@@ -1,3 +1,3 @@
 Hi There 
 this a simple calculator created with QT framework
-it's still work in progress 
+and it still  a work in progress 
